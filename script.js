@@ -5,3 +5,7 @@ const testSuccess = () => {
 const testFail = () => {
   return false;
 };
+
+const foo = () => {
+  return "bar";
+};
